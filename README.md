@@ -7,7 +7,7 @@ Software Developer
 As a designeer, I hope you can prove me wrong.
 
 * 🌍  I'm based in Guiyang, China
-* ✉️  You can contact me at [dev\[dot\]yufan#gmail\[dot\]com](mailto:dev[dot]yufan#gmail[dot]com)
+* ✉️  You can contact me at [dev\[dot\]yufan#gmail\[dot\]com](mailto:dev.yufan@gmail.com)
 * 🚀  I'm currently working on [Choiceform](http://choiceform.com)
 * 🧠  I'm learning Rust / Svelte / Three.js
 
